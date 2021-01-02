@@ -1,5 +1,3 @@
-import { stat } from 'fs';
-import { from } from 'rxjs';
 import * as fromFiltro from './filter.actions';
 
 const estadoInicial: fromFiltro.filtrosValidos = 'todos';
